@@ -1,0 +1,5 @@
+﻿references:
+1. MidiParser.cs: https://github.com/davidluzgouveia/midi-parser
+2. scale-list.csv: https://allthescales.org/downloads.php
+3. common scales: https://en.wikipedia.org/wiki/List_of_musical_scales_and_modes
+4. Note.getNoteFromMidiNumber: https://stackoverflow.com/a/64408826/8657924
